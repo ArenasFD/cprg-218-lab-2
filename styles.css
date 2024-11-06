@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+}
+h1{
+    margin: auto;
+}
+header{
+    display: flex;
+    padding:3rem;
+   background-color: #120323;
+   color: #97bf04;
+}
+
+
+main{
+
+    margin: auto;
+    }
+
+#banner{
+    width: 900px;
+    height: 600px;
+    float: center;
+    margin:auto;
+        box-shadow: 20px 8px 30px 8px;
+}
+#button {
+    background-color: #97bf04;
+}

@@ -16,7 +16,7 @@ header{
 
 
 main{
-
+padding-top: 2%;
     margin: auto;
     width: 50%;
     }
@@ -30,6 +30,6 @@ main{
 }
 button {
     background-color: #d9043d;
-    margin-right: 10px;
+    margin: center;
    
 }
